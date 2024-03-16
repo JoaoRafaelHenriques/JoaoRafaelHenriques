@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm João Henriques</h1>
 <h3 align="center">Software Developer</h3>
 
+- Bachelor's degree **in Informatics Engineering📚**
+
+- MSC **student 💪**
+
 - 📫 How to reach me **joao.rafael.henriques@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
